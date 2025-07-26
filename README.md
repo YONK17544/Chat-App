@@ -4,28 +4,43 @@ A real-time one-on-one chat application built using the **MERN stack**, enhanced
 
 ---
 
-## 🚀 Features
+🚀 Features
+🔐 User Authentication with JWT
 
-- 🔐 **User Authentication** with JWT
-- 📞 **Real-time messaging** using Socket.io
-- 📦 **MERN Stack** (MongoDB, Express, React, Node.js)
-- 🧑‍🤝‍🧑 **One-on-one private chats**
-- ☁️ **Cloudinary** for media/image storage
-- 🌈 **32+ switchable themes** via TailwindCSS + Theme Engine
-- 🧠 **Environment-configurable** for production-ready deployment
+📞 Real-time messaging using Socket.io
+
+📦 MERN Stack (MongoDB, Express, React, Node.js)
+
+🧑‍🤝‍🧑 One-on-one private chats
+
+☁️ Cloudinary for media/image storage
+
+🌈 32+ switchable themes via TailwindCSS + Theme Engine
+
+🧠 Zustand-powered global state, including persistent theme store
+
+⚙️ Environment-configurable for production-ready deployment
 
 ---
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
+MongoDB – NoSQL database for storing user and chat data
 
-- **MongoDB** – NoSQL database for storing user and chat data
-- **Express.js** – Backend framework
-- **React.js** – Frontend framework with hooks
-- **Node.js** – JavaScript runtime
-- **Socket.io** – Real-time bi-directional communication
-- **Tailwind CSS** – Utility-first CSS for UI design
-- **Cloudinary** – Media/image storage and optimization
-- **JWT** – Secure authentication via JSON Web Tokens
+Express.js – Backend framework
+
+React.js – Frontend framework with hooks
+
+Node.js – JavaScript runtime
+
+Socket.io – Real-time bi-directional communication
+
+Tailwind CSS – Utility-first CSS for UI design
+
+Cloudinary – Media/image storage and optimization
+
+JWT – Secure authentication via JSON Web Tokens
+
+Zustand – Lightweight, scalable state management for React
 
 ---
 
